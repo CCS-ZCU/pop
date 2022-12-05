@@ -1,0 +1,11 @@
+,poptype,count,proportion_pct,words
+0,right-wing,1965,58.13609467455622,"['right-wing', 'right', 'rightwe', 'radical-right', 'far-right', 'rightist', 'right-leaning', 'radicalright', 'rightwing', 'extreme-right', 'farright']"
+1,left-wing,582,17.218934911242602,"['left-wing', 'left', 'leftist', 'radical-left', 'leftwing', 'left-leaning', 'leftwe', 'center-left', 'leftism', 'center-left', 'radicalleft']"
+2,nationalist,214,6.331360946745562,"['nationalism', 'nationalist', 'national', 'nation', 'nationalistic', 'neo-nationalism', 'nationalisms', 'ethno', 'ethno-nationalist', 'ethnoregionalist']"
+3,nativist,73,2.1597633136094676,"['nativism', 'nativist']"
+4,radical,106,3.1360946745562135,"['radical', 'radicalism', 'radically', 'radical-right-wing']"
+5,moderate,42,1.242603550295858,"['moderate', 'moderately']"
+6,authoritatian,157,4.644970414201183,"['authoritarian', 'authoritarianism']"
+7,inclusive,69,2.0414201183431953,"['inclusionary', 'inclusive', 'inclusion']"
+8,exclusive,108,3.195266272189349,"['exclusionary', 'exclusion', 'exclusive', 'exclusively', 'exclusionist']"
+9,neoliberal,64,1.8934911242603552,"['neoliberal', 'neo-liberal', 'Neoliberalism', 'neoliberalism', 'Neoliberal']"
