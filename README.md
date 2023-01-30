@@ -1,5 +1,4 @@
 #  Repository title
-
 ---
 ## Authors
 * Vojtěch Kaše
