@@ -4,7 +4,9 @@ This repository serves as a supplementary material for the article "‘Clean thi
 
 ---
 ## Authors
-* anonymized (article under review)
+* Vladimír Naxera [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-5945-7193)
+* Vojtěch Kaše [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6601-1605)
+* Ondřej Stulík [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-3334-3918)
 
 
 ## License
