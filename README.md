@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8129546.svg)](https://doi.org/10.5281/zenodo.8129546)
+
 #  pop
 
 This repository serves as a supplementary material for the article "**‘The more populism types you know, the better political scientist you are?’ Machine-learning based meta-analysis of populism types in the political science literature**", accepted for publication in * Journal of Contemporary European Studies*. It contains scripts, overview data and figures. The scripts are in Python 3 programming language and have a form of Jupyter notebooks. All our analyses aim at being fully reproducible and we invite other scholars to reuse our code for their analyses. However, since the input dataset of PDFs is protected by copy rights, we cannot give you access to it.
