@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: pop
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Vladimír
+    family-names: Naxera
+    email: vnaxera@kap.zcu.cz
+    affiliation: University of West Bohemia
+    orcid: 'https://orcid.org/0000-0001-5945-7193'
+  - given-names: Vojtěch
+    family-names: Kaše
+    email: kase@kfi.zcu.cz
+    affiliation: University of West Bohemia
+    orcid: 'https://orcid.org/0000-0002-6601-1605'
+  - given-names: Ondřej
+    family-names: Stulík
+    email:
+    affiliation: University of West Bohemia
+    orcid: 'https://orcid.org/0000-0003-3334-3918'
+repository-code: 'https://github.com/CCS-ZCU/pop'
+keywords:
+  - populism
+  - populism types
+  - populism classification
+  - meta-analysis
+  - concordance data analysis
+  - document classification model
+license: CC-BY-NC-4.0
+version: '1.0'
+date-released: '2023-07-10'
